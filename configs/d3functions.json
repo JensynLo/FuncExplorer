@@ -1,0 +1,51 @@
+{
+  "direct_product_3d_gielis": [
+    {
+      "label": "Basic Product Gielis",
+      "m1": 5.0,
+      "n11": 1.0,
+      "n21": 1.0,
+      "n31": 1.0,
+      "m2": 5.0,
+      "n12": 1.0,
+      "n22": 1.0,
+      "n32": 1.0
+    },
+    {
+      "label": "Advanced Product Gielis",
+      "m1": 7.0,
+      "n11": 0.2,
+      "n21": 1.7,
+      "n31": 1.7,
+      "m2": 7.0,
+      "n12": 0.2,
+      "n22": 1.7,
+      "n32": 1.7
+    }
+  ],
+  "fig_7_review": [
+    {
+      "label": "fig_7_review"
+    }
+  ],
+  "fig_11_review": [
+    {
+      "label": "fig_11_review"
+    }
+  ],
+  "our_gielis": [
+    {
+      "label": "ours case 1",
+      "a": 3.0,
+      "b": 3.0,
+      "c": 3.0,
+      "l": 6.0,
+      "m1": 4.0,
+      "m2": 4.0,
+      "n0": 3,
+      "n1": 2,
+      "n2": 8,
+      "n3": 1
+    }
+  ]
+}
